@@ -1,1 +1,4 @@
 este e o meu primeiro arquivo para o git.
+
+
+Segunda alteração no arquivo de notas!
